@@ -3,3 +3,9 @@ venv/
 __pycache__/
 *.pyc
 .env
+camera.py
+gf_pipeline2.py
+gf_pipeline3.py
+handside.py
+landmark.py
+RorLhand.py
