@@ -3,6 +3,7 @@ import math
 import cv2
 import mediapipe as mp
 
+
 WINDOW_NAME = "Gesture Flow - First Pipeline"
 
 # If Front-facing and Back-facing are reversed, change 1 to -1.

@@ -12,9 +12,5 @@ RorLhand.py
 
 # Sayandeep Biswas - local GestureFlow files
 .venv/
-camera_test.py
-hand_side_status.py
-handland_marks.py
-gesture_flow_pipeline.py
-gesture_flow_pipeline_update.py
-palm_facing_status.py
+testing/
+
