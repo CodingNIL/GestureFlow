@@ -62,11 +62,6 @@ flowchart TB
     style OUT fill:#fff5fb,stroke:#dda4cb,stroke-width:2px
 ```
 
-## System architecture and hand landmarks
-
-### V6 system workflow flowchart
-
-![GestureFlow V6 system workflow flowchart](docs/images/gestureflow_workflow_flowchart.png)
 
 ### System architecture reference
 
