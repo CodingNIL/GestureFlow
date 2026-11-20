@@ -618,10 +618,10 @@ def choose_old_video():
 # -------------------- LIVE CAMERA / VIDEO WRITER --------------------
 
 def open_camera():
-    camera = cv2.VideoCapture(1, cv2.CAP_DSHOW)
+    camera = cv2.VideoCapture(0, cv2.CAP_DSHOW)
     if not camera.isOpened():
         camera.release()
-        camera = cv2.VideoCapture(1)
+        camera = cv2.VideoCapture(0)
     if not camera.isOpened():
         camera.release()
         raise RuntimeError('Cannot open camera. Close other camera applications.')
