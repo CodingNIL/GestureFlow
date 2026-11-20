@@ -15,6 +15,9 @@ RorLhand.py
 .venv/
 Testing/
 Resource/
+merge_dataset_v6.py
+model_train_test_v6.py
+
 #Saumabrata Saha - local GestureFlow files
 .venv/
 testing/
